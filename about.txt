@@ -1,1 +1,2 @@
-Abdur Razaq Assakun
+Nama: Abdur Razaq
+Saya sedang belajar Git di main branch.
